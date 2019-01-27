@@ -1,0 +1,15 @@
+{
+  "lang": "en-US",
+  "name": "lqb2 spiritual formation (project)",
+  "short_name": "lqb2spiritualformation(project)",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/QPuQ6LM.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}

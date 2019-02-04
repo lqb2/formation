@@ -3,6 +3,7 @@ layout: page
 title: what i'm reading
 ---
 
+* 3 feb 2019 - [astrostyle: planets and their meanings](https://astrostyle.com/learn-astrology/planets-and-meanings/)
 * 3 feb 2019 - ordered 'the wounded healer' by henri nouwen. feels urgent. 
 * 2 feb 2019 - [gye-nyame journey: how to pour libations](https://www.gyenyamejourney.com/2011/04/how-to-pour-libations.html)
 * 1 feb 2019 - [obasi oha tracs: libations~~~~ itu mmai](https://globalfaithministriesofchiism.wordpress.com/2012/05/04/libations-itu-mmai-7/)

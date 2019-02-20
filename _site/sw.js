@@ -1,8 +1,8 @@
-const version = '20190203101848';
+const version = '20190220084049';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2019/02/03/libations-2/","/general/2019/02/03/avoidance/","/general/2019/02/01/libations/","/general/2019/01/27/jan-27/","/general/2019/01/26/jan-26/","/general/2019/01/24/jan-24/","/general/2019/01/12/yes/","/general/2019/01/06/beginning-formation/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/insight/2019/02/18/you-could-never/","/horoscope/2019/02/17/new-moon-in-aquarius/","/insight/2019/02/17/known-and-unknown/","/horoscope/2019/02/15/how-to-love-me/","/general/2019/02/13/shame/","/general/2019/02/09/update/","/general/2019/02/03/libations-2/","/general/2019/02/03/avoidance/","/general/2019/02/01/libations/","/general/2019/01/27/jan-27/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

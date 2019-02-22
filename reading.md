@@ -3,6 +3,8 @@ layout: page
 title: what i'm reading
 ---
 
+* 17 feb - the wounder healer arrives and i start diving in. this book is unreal. 
+* 14 feb - [A Conversation with Rev. Djalóki Jean-Luc Dessables, Special Assistant to the President, Jubilee Housing, Washington, D.C.](https://berkleycenter.georgetown.edu/interviews/a-conversation-with-rev-djaloki-jean-luc-dessables-special-assistant-to-the-president-jubilee-housing-washington-d-c) #longreads
 * 3 feb 2019 - [astrostyle: planets and their meanings](https://astrostyle.com/learn-astrology/planets-and-meanings/)
 * 3 feb 2019 - ordered 'the wounded healer' by henri nouwen. feels urgent. 
 * 2 feb 2019 - [gye-nyame journey: how to pour libations](https://www.gyenyamejourney.com/2011/04/how-to-pour-libations.html)

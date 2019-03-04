@@ -3,6 +3,11 @@ layout: page
 title: what i'm reading
 ---
 
+
+* 4 march 
+    * [Sexuality and Spirituality: Bernini and the Ecstasy of Saint Teresa](http://www.pneuma.org.uk/art/sexuality-and-spirituality-bernini-and-the-ecstasy-of-saint-teresa/)
+    * [Queer Saints and Martyrs (and Others): St John of the Cross: 14th December](https://queering-the-church.blogspot.com/2009/12/st-john-of-cross-14th-december.html)
+    * need to look more into this: [Queer Saints and Martyrs (and Others)](https://queering-the-church.blogspot.com)
 * 17 feb - the wounder healer arrives and i start diving in. this book is unreal. 
 * 14 feb - [A Conversation with Rev. Djalóki Jean-Luc Dessables, Special Assistant to the President, Jubilee Housing, Washington, D.C.](https://berkleycenter.georgetown.edu/interviews/a-conversation-with-rev-djaloki-jean-luc-dessables-special-assistant-to-the-president-jubilee-housing-washington-d-c) #longreads
 * 3 feb 2019 - [astrostyle: planets and their meanings](https://astrostyle.com/learn-astrology/planets-and-meanings/)

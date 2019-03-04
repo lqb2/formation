@@ -2,7 +2,7 @@
 layout: post
 title: resources about loneliness
 categories: 
-- insight
+- general
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 

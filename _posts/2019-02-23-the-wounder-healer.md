@@ -2,7 +2,7 @@
 layout: post
 title: notes from the wounder healer
 categories: 
-- insight
+- general
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 

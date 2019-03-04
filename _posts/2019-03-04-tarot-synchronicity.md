@@ -2,11 +2,11 @@
 layout: post
 title: tarot synchronicity as i prepare for journey work
 categories: 
-- insight
+- general
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 
-![imgur](https://imgur.com/a/HuFlee1)
+![Imgur](https://i.imgur.com/hcUTLxs.jpg)
 
 last week, on feb 27 i pulled the sun. on feb 28, i pulled the king of swords reversed. on march 1, i pulled them both. well, the sun fell out while i was shuffling and i pulled the king of swords reversed. 
 

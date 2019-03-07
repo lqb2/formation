@@ -1,8 +1,8 @@
-const version = '20190220084049';
+const version = '20190307000722';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/insight/2019/02/18/you-could-never/","/horoscope/2019/02/17/new-moon-in-aquarius/","/insight/2019/02/17/known-and-unknown/","/horoscope/2019/02/15/how-to-love-me/","/general/2019/02/13/shame/","/general/2019/02/09/update/","/general/2019/02/03/libations-2/","/general/2019/02/03/avoidance/","/general/2019/02/01/libations/","/general/2019/01/27/jan-27/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/horoscope/2019/03/06/new-moon-in-pisces/","/general/2019/03/04/tarot-synchronicity/","/general/2019/03/01/loneliness/","/insight/2019/02/28/Bodhisattva-journey/","/general/2019/02/23/the-wounder-healer/","/insight/2019/02/18/you-could-never/","/horoscope/2019/02/17/new-moon-in-aquarius/","/insight/2019/02/17/known-and-unknown/","/horoscope/2019/02/15/how-to-love-me/","/general/2019/02/13/shame/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

@@ -4,6 +4,7 @@ title: what i'm reading
 ---
 
 
+* 6 march - [TANTRA YOGA: A GUIDE FOR PRACTITIONERS](https://www.gaia.com/article/tantra-yoga-guide-practitioners)
 * 4 march 
     * [Sexuality and Spirituality: Bernini and the Ecstasy of Saint Teresa](http://www.pneuma.org.uk/art/sexuality-and-spirituality-bernini-and-the-ecstasy-of-saint-teresa/)
     * [Queer Saints and Martyrs (and Others): St John of the Cross: 14th December](https://queering-the-church.blogspot.com/2009/12/st-john-of-cross-14th-december.html)

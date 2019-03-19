@@ -2,7 +2,7 @@
 layout: post
 title: libations
 categories:
-- General
+- general
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 

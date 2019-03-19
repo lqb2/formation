@@ -6,7 +6,7 @@ categories:
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 
-so first thing to share: [this post about breadcrumbs on my blog](http://lqb2.co/blog///2019/03/13/breadcrumbs/) is 100% a journey experience. that is the headline takeaway from this journey: only breadcrumbs can be left behind. 
+so first thing to share: [this post about breadcrumbs on my regular blog](http://lqb2.co/blog///2019/03/13/breadcrumbs/) is 100% a journey experience. that is the headline takeaway from this journey: only breadcrumbs can be left behind. 
 
 that leads to three actions for me: 
 
@@ -36,6 +36,8 @@ anyway, here's a rundown of the breadcrumbs i left myself (know that this is pro
     * also i think part of my own history of sexual abuse happened while we were visiting "friends" or family and i spent lots of time in my male "cousins" bedrooms playing video games and... why are there gaps in my memory here? this is either just forgetting or sexual trauma. gotta go there someday but not today. 
 
 ### abbreviated thought flow 2:
+
+* 
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: journey 1 - breadcrumbs
 categories: 
-- general
+- journey
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 

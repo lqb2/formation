@@ -81,6 +81,14 @@
 <lastmod>2019-03-06T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/formation/journey/2019/03/16/journey-breadcrumbs/</loc>
+<lastmod>2019-03-16T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/formation/journey/2019/03/27/journey-crystalized-worldviews/</loc>
+<lastmod>2019-03-27T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/formation/categories/</loc>
 </url>
 <url>
@@ -100,5 +108,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/formation/blog/page4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/formation/blog/page5/</loc>
 </url>
 </urlset>

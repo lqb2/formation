@@ -1,8 +1,8 @@
-const version = '20190307000722';
+const version = '20190327074307';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/horoscope/2019/03/06/new-moon-in-pisces/","/general/2019/03/04/tarot-synchronicity/","/general/2019/03/01/loneliness/","/insight/2019/02/28/Bodhisattva-journey/","/general/2019/02/23/the-wounder-healer/","/insight/2019/02/18/you-could-never/","/horoscope/2019/02/17/new-moon-in-aquarius/","/insight/2019/02/17/known-and-unknown/","/horoscope/2019/02/15/how-to-love-me/","/general/2019/02/13/shame/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/journey/2019/03/27/journey-crystalized-worldviews/","/journey/2019/03/16/journey-breadcrumbs/","/horoscope/2019/03/06/new-moon-in-pisces/","/general/2019/03/04/tarot-synchronicity/","/general/2019/03/01/loneliness/","/insight/2019/02/28/Bodhisattva-journey/","/general/2019/02/23/the-wounder-healer/","/insight/2019/02/18/you-could-never/","/horoscope/2019/02/17/new-moon-in-aquarius/","/insight/2019/02/17/known-and-unknown/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

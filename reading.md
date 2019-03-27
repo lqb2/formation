@@ -3,7 +3,11 @@ layout: page
 title: what i'm reading
 ---
 
-
+* 21 march - [What The Super Worm Equinox Moon Means For You](https://www.refinery29.com/en-ca/2019/03/227568/super-worm-full-moon-spring-equinox-march-2019)
+    - to read: 
+        - [Monastic or Chaste Homosexuality](https://tobyjohnson.com/monastichomosexuality.html)
+        - [Tricycle: We’re Queer And We’ve Been Here](https://tricycle.org/trikedaily/buddhisms-lgbt-history/)
+        - [Lambda Literary](Queer Rites: Faith Politics and Sexual Diversity)
 * 6 march - [TANTRA YOGA: A GUIDE FOR PRACTITIONERS](https://www.gaia.com/article/tantra-yoga-guide-practitioners)
 * 4 march 
     * [Sexuality and Spirituality: Bernini and the Ecstasy of Saint Teresa](http://www.pneuma.org.uk/art/sexuality-and-spirituality-bernini-and-the-ecstasy-of-saint-teresa/)

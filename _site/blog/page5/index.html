@@ -106,42 +106,42 @@
       </li>
     
   </ul>
-</nav>
-
-
-<template id="buttontoggle">
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
 
   </button>
-</template>
+</nav>
+
 
 <script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
 
-const nav = document.querySelector('.nav')
-const buttonTemplate = document.querySelector('#buttontoggle')
-const button = document.importNode(buttonTemplate.content, true)
-nav.appendChild(button)
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
 
-const applyToggle = (list, button, breakpoint) => {
-  const navList = document.querySelector(list)
-  if (document.body.clientWidth < breakpoint) {
-    const navHeight = navList.clientHeight
-    const navButton = document.querySelector(button)
-    navList.style.maxHeight = '0px'
-
-    navButton.onclick = () => {
-      if (navList.style.maxHeight == '0px') {
-        navList.style.maxHeight = `${navHeight}px`
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
       } else {
-        navList.style.maxHeight = '0px'
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
       }
     }
   }
-}
 
-applyToggle('.list--nav', '.button', 640)
+  collapseNav()
 
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
 </script>
 
   </div>
@@ -182,6 +182,28 @@ applyToggle('.list--nav', '.button', 640)
     
   <section class="section  typeset">
     <ul class="list  list--posts">
+      
+        <li class="item  item--post">
+          <article class="article  article--post">
+
+            <h2><a href="/formation/horoscope/2019/01/20/2019-horoscope/">2019 Horoscope</a></h2>
+            
+
+<small class="small  post-meta">
+  
+  
+    
+      <span class="label  label--category"><a href="/formation/categories/#horoscope">horoscope</a></span>
+    
+  &nbsp;&middot;&nbsp;<time datetime="2019-01-20T00:00:00-05:00" class="time">20 Jan 2019</time>
+</small>
+
+            <p>source: https://chaninicholas.com/2019-horoscope/</p>
+
+
+
+          </article>
+        </li>
       
         <li class="item  item--post">
           <article class="article  article--post">

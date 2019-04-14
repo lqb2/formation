@@ -6,7 +6,7 @@ categories:
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 
-march 29 thru april 6 i was in corbett, oregon, for my css job. we had our big 5-day [annual training](https://www.storybasedstrategy.org/the-advanced-training) and i was on the staff planning and support team. it was overall an amazing time. here are some photos [of the training and staff team](https://www.instagram.com/p/Bvvjga9n6xu/), [of one of the evenings](https://www.instagram.com/p/Bv6tZEPHOun/), and [of one of the training days](https://www.instagram.com/p/Bv1_2BmhIcU/). 
+march 29 thru april 6 i was in corbett, oregon, for my css job. we had our big annual 5-day training called [the advanced training](https://www.storybasedstrategy.org/the-advanced-training) and i was on the staff planning and support team. it was overall an amazing time. here are some photos [of the training and staff team](https://www.instagram.com/p/Bvvjga9n6xu/), [of one of the evenings](https://www.instagram.com/p/Bv6tZEPHOun/), and [of one of the training days](https://www.instagram.com/p/Bv1_2BmhIcU/). 
 
 two things i want to share here though because of the "spiritual" nature of them. 
 

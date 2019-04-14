@@ -1,8 +1,8 @@
-const version = '20190412092510';
+const version = '20190414111225';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2019/04/12/interesting-developments-at-the-AT/","/journey/2019/03/27/journey-crystalized-worldviews/","/journey/2019/03/16/journey-breadcrumbs/","/horoscope/2019/03/06/new-moon-in-pisces/","/general/2019/03/04/tarot-synchronicity/","/general/2019/03/01/loneliness/","/insight/2019/02/28/Bodhisattva-journey/","/general/2019/02/23/the-wounder-healer/","/insight/2019/02/18/you-could-never/","/horoscope/2019/02/17/new-moon-in-aquarius/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2019/04/14/interesting-developments-at-the-AT-2/","/general/2019/04/12/interesting-developments-at-the-AT/","/journey/2019/03/27/journey-crystalized-worldviews/","/journey/2019/03/16/journey-breadcrumbs/","/horoscope/2019/03/06/new-moon-in-pisces/","/general/2019/03/04/tarot-synchronicity/","/general/2019/03/01/loneliness/","/insight/2019/02/28/Bodhisattva-journey/","/general/2019/02/23/the-wounder-healer/","/insight/2019/02/18/you-could-never/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

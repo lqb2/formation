@@ -1,8 +1,8 @@
-const version = '20190414154525';
+const version = '20190715090054';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2019/04/14/interesting-developments-at-the-AT-2/","/general/2019/04/12/interesting-developments-at-the-AT/","/journey/2019/03/27/journey-crystalized-worldviews/","/journey/2019/03/16/journey-breadcrumbs/","/horoscope/2019/03/06/new-moon-in-pisces/","/general/2019/03/04/tarot-synchronicity/","/general/2019/03/01/loneliness/","/insight/2019/02/28/Bodhisattva-journey/","/general/2019/02/23/the-wounder-healer/","/insight/2019/02/18/you-could-never/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/journey/2019/07/15/journey-evolutionary-relationships-1/","/general/2019/07/07/shamanism-journal/","/insight/2019/06/27/labyrinths-and-a-gift/","/general/2019/06/26/june-tarot-readings/","/general/2019/06/25/june-interesting-moments/","/horoscope/2019/06/07/new-moon-in-gemini/","/insight/2019/05/29/silent-meditation-retreat/","/general/2019/04/28/dust-to-onyx-tarot/","/general/2019/04/14/interesting-developments-at-the-AT-2/","/general/2019/04/12/interesting-developments-at-the-AT/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

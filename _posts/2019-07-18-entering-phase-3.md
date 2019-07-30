@@ -1,13 +1,36 @@
 ---
 layout: post
-title: labyrinths and a gift from one
+title: formation phase 3
 categories: 
 - insight
 feature_image: "https://i.imgur.com/btyODva.jpg"
 ---
 
-i think i had forgotten this but i'm super into labyrinths. there have been labyrinths at the site of the advanced training i was at back in april with css, there were two at the location of the united for a fair economy training of trainers location in north andover, there were two (though i only found one) at the garrison institute for waking up fabulous, and there are two where i am now at the site of our css staff retreat (in san anselmo on a satellite campus of the sf theological seminary). [insert photos] there's a sci-fi story in here somewhere about the connections between labyrinths...
+we're moving into the final phase of formation: it was originally called 'beyond' (following phase 1: inner, and phase 2: outer). now it's called 'inner-outer' which is profounding confusing. but &shrug; 
 
-second note: i walked one of them yesterday with two co-workers and i walked the second one today for some grounding after a really hard moment on retreat. there's probably more to say on that but that's not what i wanted to say here... when i got to the center of the labyrinth, i found that people had left two stones/crystals, a heart pendant, and a bundle of (now dry) flowers. i wanted to leave something but i didn't want to leave the stone or crystal i was carrying. i decided to leave nothing and was feeling kind of guilty about it. but on my way out i started picking up trash and then had the thought: "oh sometimes the gift one brings can be the removal of something." and upon further reflection, i think that's what a lot of healing work (especially when embedded in community) is.
+one of the first prompts we're being called to is this: 
 
-anyway, that's all for now. gotta go finish some work before bed!
+``` Make time over the coming days to take stock of where you have been. Revisit your materials from the Discernment Period. What stands out now from the Healing Action Plan? What did you learn from reflecting on formation? From your conversations with your people? What did you say Yes to in January, and how has that played out? Start to notice threads running through your experience since then. Start to listen for an area you’re called toward in your life.
+```
+
+as i've started to do even a tiny bit of that reflection, so much is opening up! thoughts i've had so far: 
+
+**what have i learned on reflection on formation so far?**
+
+* WOW! when i think about current me compared to oct 2018 me, so much has changed. _and_ in that funny non-dual way, so much is the same. but when i think about what i'm doing with my time, many things are different. 
+* i'm so much better now at spending time solo. it's clear now, beause of practice, why that time matters so much. it's not selfish... it's energizing to me and, by the transitive property, energizing for my community. 
+* i am holding spiritual circles now like... all over the place. 
+* the line between spiritual and non-spiritual circle is much blurrier than it was before. 
+
+
+**what have i learned from conversations with my people?**
+
+* having things i say said back to me is a huge way that i learn. luana did this first with the poem i wrote in response to one of the first prompts we got in the program. and danielle has done it to me most recently and in a way that totally blew my mind. 
+
+**what i haven't done but still want to**
+
+* heal wounds related to blackness (emotional emancipation group didn't happen)
+* transform relationship with dad (maybe do decolonizing christianity book club)
+* explore gullah geechee ancestry
+* explore other african ancestry and spiritual traditions (mali: dogon, root work)
+* 

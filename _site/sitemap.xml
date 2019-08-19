@@ -141,6 +141,18 @@
 <lastmod>2019-07-30T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/formation/horoscope/2019/08/04/new-moon-in-leo/</loc>
+<lastmod>2019-08-04T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/formation/general/2019/08/13/libations-in-july/</loc>
+<lastmod>2019-08-13T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/formation/general/2019/08/14/clearness-committee/</loc>
+<lastmod>2019-08-14T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/formation/categories/</loc>
 </url>
 <url>
@@ -169,5 +181,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/formation/blog/page7/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/formation/blog/page8/</loc>
 </url>
 </urlset>

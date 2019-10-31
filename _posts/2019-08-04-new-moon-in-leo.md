@@ -52,7 +52,7 @@ chiron description from [cafe astrology](https://cafeastrology.com/chiron.html).
 
 > Chiron is a comet with a unique and erratic orbit. In the natal chart, Chiron is symbolized by the “wounded healer”. It represents our deepest wound, and our efforts to heal the wound. Chiron was named after the centaur in Greek mythology who was a healer and teacher who, ironically, could not heal himself.
 >  
-> Chiron in Astrology: Chiron in our natal charts points to where we have healing powers as the result of our own deep spiritual wounds. We may over-compensate in these areas of life. Chiron, as a wounded healer, first must face issues of low self-worth and feelings of inadequacy and learn to rise above these issues. Because the wound goes deep, and we may work hard to overcome the wound, healing powers are potent.".
+> Chiron in Astrology: Chiron in our natal charts points to where we have healing powers as the result of our own deep spiritual wounds. We may over-compensate in these areas of life. Chiron, as a wounded healer, first must face issues of low self-worth and feelings of inadequacy and learn to rise above these issues. Because the wound goes deep, and we may work hard to overcome the wound, healing powers are potent."
 
 I magnetize the materials I need to build my dreams. I cleanse my mind of toxic ideas about amassing wealth for my gain alone. I clear my heart of the misconceptions that I need to cling to, hold on to, or hoard attention and societal recognition. 
 

@@ -1,8 +1,8 @@
-const version = '20190818221921';
+const version = '20191031123633';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2019/08/14/clearness-committee/","/general/2019/08/13/libations-in-july/","/horoscope/2019/08/04/new-moon-in-leo/","/insight/2019/07/30/thoughts-on-liberation-and-self-care/","/insight/2019/07/29/i-am-perfect/","/insight/2019/07/18/entering-phase-3/","/journey/2019/07/15/journey-evolutionary-relationships-1/","/general/2019/07/07/shamanism-journal/","/insight/2019/06/27/labyrinths-and-a-gift/","/general/2019/06/26/june-tarot-readings/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2019/10/31/oct-medicine-reflections/","/general/2019/10/06/closing-call/","/horoscope/2019/09/05/new-moon-in-virgo/","/general/2019/08/22/emet/","/general/2019/08/14/clearness-committee/","/general/2019/08/13/libations-in-july/","/horoscope/2019/08/04/new-moon-in-leo/","/insight/2019/07/30/thoughts-on-liberation-and-self-care/","/insight/2019/07/29/i-am-perfect/","/insight/2019/07/18/entering-phase-3/","/categories/","/blog/","/","/reading/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/blog/page9/","/feed.xml","https://i.imgur.com/QPuQ6LM.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
